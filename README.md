@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I am Fatima Zehra</h1>
-<h3 align="center">A passionate web developer from Pakistan.</h3>
+<h3 align="center">A passionate web developer and software engineering undergrad from Pakistan.</h3>
 
 
-- 🔭 I am currently working on **my Portfolio website**
+- 🔭 I am currently working on **FaceLog Attendance Project**
 
 - 🌱 I am currently learning **JavaScript**
 
-- 💬 Ask me about **Web Development, React**
+- 💬 Ask me about **Web Development, React, Front-End Development**
 
 - ⚡ Fun fact **I think I am upbeat**
 
