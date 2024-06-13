@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on **InteriorX**
 
-- 🌱 I am currently learning **JavaScript**
+- 🌱 I am currently learning **Flutter**
 
 - 💬 Ask me about **Web Development, React, Front-End Development**
 
