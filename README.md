@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer and software engineering undergrad from Pakistan.</h3>
 
 
-- 🔭 I am currently working on **Shared Plate Project**
+- 🔭 I am currently working on **InteriorX**
 
 - 🌱 I am currently learning **JavaScript**
 
